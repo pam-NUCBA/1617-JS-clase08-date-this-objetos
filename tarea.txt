@@ -1,0 +1,16 @@
+01. devolver con toLocaleDateString su fecha de nacimiento en formatos:
+    * weekday: short, year: 2-digit, month: 2-digit, day: 2-digit
+    *lo mismo pero con hora
+    *weekday: long y el resto numeric
+
+obviamente cada uno en una función diferente ;)
+
+02. desafío extra! pasarle una fecha unix y que la devuelva en algún formato legible con el toLocaleDateString
+
+03. crear un objeto auto con diferentes valores adentro, y con métodos. OOooojo con las flechas.
+
+04. la funcion addMaxTemp, hacer que esa máxima venga por parámetro!
+
+05. Repetir el ejemplo del 02d-objects logueando toda la descripción de un gato.
+05b. De un hotel. (hacer dos métodos distintos... sean creativos!)
+05c. de una computadora.
